@@ -1,6 +1,9 @@
 ---
 name: "\U0001F41B Bug report"
 about: Report reproducible software issues so we can improve
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
@@ -10,8 +13,8 @@ We use GitHub only for bug reports 🐛
 
 Anything else should be emailed to hello@releaseapp.io 👫
 
-🚨For support, help & questions, [open a help ticket](https://github.com/releaseapp-io/release/issues)
-💡For feature requests & ideas you can [open a feature request ticket](https://github.com/releaseapp-io/release/issues)
+🚨 For support, help & questions, [open a help ticket](https://github.com/releaseapp-io/release/issues)
+💡 For feature requests & ideas you can [open a feature request ticket](https://github.com/releaseapp-io/release/issues)
 
 ### Issue Summary
 
