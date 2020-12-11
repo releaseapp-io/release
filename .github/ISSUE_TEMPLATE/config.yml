@@ -3,6 +3,9 @@ contact_links:
   - name: 🧩 Starter Apps
     url: https://github.com/awesome-release
     about: Examples that work in Release out of the box
+  - name: 🏗️ Schedule a Demo
+    url: https://calendly.com/tommy-release/60min
+    about: Schedule a demo with the Release team
   - name: 📖 Documentation
     url: https://docs.releaseapp.io/
     about: Tutorials & reference guides for getting started, connecting to AWS and more
